@@ -1,3 +1,15 @@
+Communication contract:
+
+Expectations for Group Partnership
+1.We will communicate via Discord and iMessage
+2.Since Isaac is 8 hours ahead, a response time of 24hrs or less
+is best.
+3.Assignments will be turned in on time
+4.Log updates and progress each meeting/session to stay on
+track
+5.Communicate any issues, bugs, difficulties as soon as possible
+to help progression and assignments done.
+
 Part 1: microservice_for_isaac
 
 First we open up the microservice_for_isaac directory to see app.py and service.py
